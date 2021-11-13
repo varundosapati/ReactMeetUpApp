@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/ReactMeetUpApp/static/css/main.1dbdd040.chunk.css",
-    "main.js": "/ReactMeetUpApp/static/js/main.25c4e2a4.chunk.js",
-    "main.js.map": "/ReactMeetUpApp/static/js/main.25c4e2a4.chunk.js.map",
-    "runtime-main.js": "/ReactMeetUpApp/static/js/runtime-main.c087bcfe.js",
-    "runtime-main.js.map": "/ReactMeetUpApp/static/js/runtime-main.c087bcfe.js.map",
-    "static/js/2.0f746074.chunk.js": "/ReactMeetUpApp/static/js/2.0f746074.chunk.js",
-    "static/js/2.0f746074.chunk.js.map": "/ReactMeetUpApp/static/js/2.0f746074.chunk.js.map",
+    "main.js": "/ReactMeetUpApp/static/js/main.6c7bf28b.chunk.js",
+    "main.js.map": "/ReactMeetUpApp/static/js/main.6c7bf28b.chunk.js.map",
+    "runtime-main.js": "/ReactMeetUpApp/static/js/runtime-main.d47bf3a1.js",
+    "runtime-main.js.map": "/ReactMeetUpApp/static/js/runtime-main.d47bf3a1.js.map",
+    "static/js/2.637c1355.chunk.js": "/ReactMeetUpApp/static/js/2.637c1355.chunk.js",
+    "static/js/2.637c1355.chunk.js.map": "/ReactMeetUpApp/static/js/2.637c1355.chunk.js.map",
     "index.html": "/ReactMeetUpApp/index.html",
     "static/css/main.1dbdd040.chunk.css.map": "/ReactMeetUpApp/static/css/main.1dbdd040.chunk.css.map",
-    "static/js/2.0f746074.chunk.js.LICENSE.txt": "/ReactMeetUpApp/static/js/2.0f746074.chunk.js.LICENSE.txt"
+    "static/js/2.637c1355.chunk.js.LICENSE.txt": "/ReactMeetUpApp/static/js/2.637c1355.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c087bcfe.js",
-    "static/js/2.0f746074.chunk.js",
+    "static/js/runtime-main.d47bf3a1.js",
+    "static/js/2.637c1355.chunk.js",
     "static/css/main.1dbdd040.chunk.css",
-    "static/js/main.25c4e2a4.chunk.js"
+    "static/js/main.6c7bf28b.chunk.js"
   ]
 }
